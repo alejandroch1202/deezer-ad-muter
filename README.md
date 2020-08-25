@@ -1,4 +1,4 @@
-#Deezer AD Mutter
+# Deezer AD Mutter
 
 Simple Deezer mute when AD is playing. For Linux users.
 
